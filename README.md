@@ -1,2 +1,2 @@
-# Madvisor_sample
+# Madvisor Sample
 Sample Django Application
